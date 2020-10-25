@@ -1,4 +1,4 @@
-package guru.springframework.jokeapp.jokeapp;
+package guru.springframework.jokeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
